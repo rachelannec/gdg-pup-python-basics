@@ -19,3 +19,5 @@ try:
         
 except ValueError:
     print("Invalid input: Age cannot be a non-number.")
+
+# since parang gawa na agad, wala na akong gagawin (?)
