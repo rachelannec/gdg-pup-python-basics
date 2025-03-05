@@ -1,7 +1,7 @@
 #  opening a file in read mode and printing its contents
 try:
-    with open('sample-ans.txt', 'r') as file:
-        contents = file.read()
+    with open('sample-ans.txt', 'r') as file1:
+        contents = file1.read()
         print("Contents of the file:")
         print(contents)
 except FileNotFoundError:
